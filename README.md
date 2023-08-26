@@ -16,7 +16,7 @@ berbagai penyelenggara. Kemudahan dan efisiensinya membuat proses pencarian lomb
 - Ketiga, Kamu bisa copy link Repository untuk mendapatkan filenya
 
 ```javascript
-https://github.com/Adiptra/Competiverse.git
+(https://github.com/Adiptra/Competiverse.git)
 ```
 
 - Pastekan pada Terminal Gitnya
